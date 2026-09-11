@@ -1472,13 +1472,16 @@ body {
     /* ===== HERO PEQUEÑO ===== */
 
    .hero {
-    height: 52vw;
+    .hero {
+    height: 50vw !important;
+    min-height: 0 !important;
+    margin-bottom: 0 !important;
 
     background-size: 100% auto;
-
     background-position: center top;
-
     background-repeat: no-repeat;
+}
+    
 }
 
     .hero-contenido {
