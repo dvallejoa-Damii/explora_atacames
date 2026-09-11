@@ -1352,13 +1352,16 @@ body {
     /* ===== HERO EN CELULAR ===== */
 
     .hero {
-        height: 560px;
+    height: 115vw;
 
-        background-size: auto 100%;
-        background-position: center center;
+    background-size: 100% auto;
 
-        align-items: flex-start;
-    }
+    background-position: center top;
+
+    background-repeat: no-repeat;
+
+    align-items: flex-start;
+}
 
     .hero-contenido {
         padding: 25px 10px 10px;
@@ -1468,12 +1471,15 @@ body {
 
     /* ===== HERO PEQUEÑO ===== */
 
-    .hero {
-        height: 500px;
+   .hero {
+    height: 115vw;
 
-        background-size: auto 100%;
-        background-position: center center;
-    }
+    background-size: 100% auto;
+
+    background-position: center top;
+
+    background-repeat: no-repeat;
+}
 
     .hero-contenido {
         padding-top: 18px;
