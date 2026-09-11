@@ -41,8 +41,8 @@ Sitio web completo desarrollado como trabajo final de la asignatura. Presenta in
 - **Cultura:** Herencia afro-ecuatoriana, marimba, tradiciones y clima
 
 ## 🌐 Publicación
-- **URL del repositorio GitHub:** https://github.com/[tu-usuario]/examen-final-turismo
-- **URL pública del sitio:** https://[tu-usuario].github.io/examen-final-turismo/
+- **URL del repositorio GitHub:** https://github.com/dvallejoa-Damii/explora_atacames.git
+- **URL pública del sitio:** https://dvallejoa-damii.github.io/explora_atacames/ 
 
 ## 📸 Capturas
 *(Agrega aquí capturas de: página principal, destinos, servicios, formulario, versión móvil, repositorio y configuración de GitHub Pages)*
