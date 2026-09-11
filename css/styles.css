@@ -260,7 +260,7 @@ body {
 .subtitulo {
     display: inline-block;
 
-    font-size: 13px;
+    font-size: 18px;
 
     font-weight: bold;
 
@@ -286,7 +286,7 @@ body {
 ======================================== */
 
 .hero h2 {
-    font-size: 48px;
+    font-size: 52px;
 
     color: var(--blanco);
 
@@ -310,7 +310,7 @@ body {
 .hero-texto {
     display: inline-block;
 
-    font-size: 17px;
+    font-size: 20px;
 
     font-weight: bold;
 
@@ -1481,8 +1481,6 @@ body {
     background-repeat: no-repeat;
 }
     
-}
-
     .hero-contenido {
         padding-top: 18px;
         padding-left: 8px;
